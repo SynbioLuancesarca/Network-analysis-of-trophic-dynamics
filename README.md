@@ -1,4 +1,4 @@
-# Network-analysis-of-trophic-dynamics
+# Network analysis of trophic dynamics
 Social network analysis of short-tailed field rats in southern Florida ecosystems
 
 This project consists of demonstrating a trophic dynamics network and aims to investigate interactions between these areas. 
